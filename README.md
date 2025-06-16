@@ -39,7 +39,7 @@ A real-time dashboard that visualizes key Ethereum blockchain metrics using Next
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/scode2277/Eth_RT_Dashboard.git
 ```
 
 2. Install dependencies
